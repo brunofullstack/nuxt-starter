@@ -998,11 +998,6 @@
     consola "^2.5.6"
     http-proxy-middleware "^0.19.1"
 
-"@nuxtjs/recaptcha@^0.6.1":
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/recaptcha/-/recaptcha-0.6.1.tgz#602b0c3365f63ec125c158564de798bcf6d3b911"
-  integrity sha512-whyARb4xDf7GeWKojqctcBVpmH+fMGjdS8U/hxoAN8HqkTv/mfi5z0WROu+l6T0ZDYqJcfXFe78ihNgW13OmGg==
-
 "@nuxtjs/vuetify@^1.0.0":
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/@nuxtjs/vuetify/-/vuetify-1.9.1.tgz#8c802ebac8c5fd576e110d9e7760e860db2811c0"
@@ -4119,9 +4114,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.15.0, lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.15, lodash@^4.17.3, lodash@^4.17.5:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 loose-envify@^1.0.0:
   version "1.4.0"
